@@ -251,7 +251,7 @@ html[dir=rtl] .app__logo-wrapper {
   padding: 0 30px;
   margin: auto;
 }
-
+*/
 .darkmode-toggle {
   z-index: 500;
 }
@@ -263,4 +263,3 @@ html[dir=rtl] .app__logo-wrapper {
   background-position-y: -10vh !important;
   background-repeat: no-repeat !important;
 }
-*/
