@@ -50,7 +50,6 @@ h1, h2 {
   font-family: "Heebo", sans-serif;
 }
 
-/*
 .app__header {
   display: flex;
   flex-direction: row;
@@ -251,7 +250,7 @@ html[dir=rtl] .app__logo-wrapper {
   padding: 0 30px;
   margin: auto;
 }
-*/
+
 .darkmode-toggle {
   z-index: 500;
 }
